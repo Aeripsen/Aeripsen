@@ -47,3 +47,7 @@ An interactive application using Python and pygame to visualize hierarchical dat
 ## 💡 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/sepehr-jafari-fesharaki/)
 - [GitHub](https://github.com/Aeripsen)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aeripsen&layout=compact)
+
