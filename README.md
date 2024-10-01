@@ -24,8 +24,11 @@ Enthusiastic Computer Science student passionate about developing efficient soft
 
 ## 🚀 Projects
 
-### [Painter Project](https://github.com/sage35deng/207-Drawing-App)
-A Paint-type application with features like drawing shapes, importing images, saving/loading projects, and exporting images.
+### Painter Project (CSC207 Assignment)
+- Developed an interactive paint application using Java, implementing core features like shape drawing and image import/export.
+- Worked in a group to design the project using the MVC architecture for better modularity.
+- [Watch the Project Demo](https://www.youtube.com/watch?v=cCl039smf6s)
+
 
 ### [Physics Simulations](https://github.com/your-repo-link)
 Developed Python solvers for nonlinear projectile motion and coupled spring-mass dynamics using numerical methods.
