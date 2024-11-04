@@ -4,8 +4,8 @@
 
 Enthusiastic Computer Science student passionate about developing efficient software solutions using Python, Java, and JavaScript. I'm constantly working on exciting projects and solving complex problems, particularly full-stack development, data analysis, and machine learning.
 
-- 🔭 Currently working on: [207 Drawing App](https://github.com/sage35deng/207-Drawing-App)
-- 🌱 Currently learning: Algorithms, and Software Engineering principles.
+- 🔭 Currently working on: [WhaleTracker]([https://github.com/sage35deng/207-Drawing-App](https://github.com/zoomeraction/WhaleTrack))
+- 🌱 Currently learning: Advanced algorithms, and Software Engineering tools, Nueral Networks.
 - 👯 Open to collaborating on open-source projects.
 - 💼 Available for freelance or full-time opportunities.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sepehr-jafari-fesharaki/)
