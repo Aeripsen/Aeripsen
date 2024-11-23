@@ -30,13 +30,13 @@ Enthusiastic Computer Science student passionate about developing efficient soft
 - [Watch the Project Demo](https://www.youtube.com/watch?v=cCl039smf6s)
 
 
-### [Physics Simulations](https://github.com/your-repo-link)
+### Physics Simulations
 Developed Python solvers for nonlinear projectile motion and coupled spring-mass dynamics using numerical methods.
 
-### [MewbileTech Phone Company Simulation]
+### MewbileTech Phone Company Simulation
 A Python-based simulation for managing a phone company's operations, including call data processing and contract management.
 
-### [Treemap Visualizer]
+### Treemap Visualizer
 An interactive application using Python and pygame to visualize hierarchical data.
 
 ---
